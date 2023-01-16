@@ -1,0 +1,18 @@
+.store-categorie {
+  .css-iajp3t-MuiButtonGroup-root .MuiButtonGroup-grouped:not(:last-of-type) {
+    border-right-color: none;
+    border: none;
+    border-radius: 10px;
+  }
+  .css-iajp3t-MuiButtonGroup-root .MuiButtonGroup-grouped:not(:first-of-type) {
+    border-radius: 10px;
+  }
+  .isChecked {
+    border: "none";
+    background: "#fff";
+    color: "rgb(21,65,40)";
+  }
+  .isNotChecked {
+
+  }
+}
